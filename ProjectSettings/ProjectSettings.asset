@@ -803,6 +803,7 @@ PlayerSettings:
     1: STARTER_ASSETS_PACKAGES_CHECKED
     4: VUFORIA_IOS_SETTINGS
     7: VUFORIA_ANDROID_SETTINGS
+    13: STARTER_ASSETS_PACKAGES_CHECKED
     14: VUFORIA_WSA_SETTINGS
   additionalCompilerArguments: {}
   platformArchitecture:
@@ -884,7 +885,7 @@ PlayerSettings:
   metroSplashScreenUseBackgroundColor: 1
   platformCapabilities:
     WindowsStoreApps:
-      EnterpriseAuthentication: False
+      CodeGeneration: False
       OfflineMapsManagement: False
       HumanInterfaceDevice: False
       Location: False
@@ -919,8 +920,8 @@ PlayerSettings:
       Contacts: False
       Proximity: False
       InternetClient: True
-      CodeGeneration: False
       BackgroundMediaPlayback: False
+      EnterpriseAuthentication: False
   metroTargetDeviceFamilies:
     Desktop: False
     Holographic: False

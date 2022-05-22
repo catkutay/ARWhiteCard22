@@ -24,7 +24,7 @@ MonoBehaviour:
     modelTargetRecoWhileExtendedTracked: 1
     shareRecordingsInITunes: 1
     version: 9.8.11
-    eulaAcceptedVersions: '{"Values":["","0.0","9.8"]}'
+    eulaAcceptedVersions: '{"Values":["","0.0","9.8","10.7"]}'
   database:
     disableModelExtraction: 1
   shaders:
@@ -45,4 +45,4 @@ MonoBehaviour:
   webcam:
     renderTextureLayer: 30
   packageInformation:
-    ARFoundationVersion: 
+    ARFoundationVersion: 4.1.10
