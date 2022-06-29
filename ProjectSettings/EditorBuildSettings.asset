@@ -32,7 +32,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/SamplesResources/Scenes/3-ModelTargets.unity
     guid: 2a35bde7bbb01499a82f7c9ec70afc87
-  - enabled: 0
+  - enabled: 1
     path: Assets/SamplesResources/Scenes/3-MultiTargets.unity
     guid: d5e3b9c64d95e4105b0f8c39cd4dc3bd
   - enabled: 0
@@ -47,9 +47,11 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/House.unity
     guid: 2d116cb89aea84e09a2384c0dbd7d238
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 819ad34ad794b4de5b6fe103b74927c2,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
       type: 2}

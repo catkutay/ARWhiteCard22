@@ -57,4 +57,10 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
+**/Assets/AddressableAssetsData/*/*.bin*
+**/assets/addressableassetsdata/*/*.bin*
+**/Assets/StreamingAssets/aa.meta
+**/assets/streamingassets/*/aa/*
+.DS_Store*
+Thumbs.db
+Desktop.ini
